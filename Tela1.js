@@ -14,7 +14,6 @@ const Tela1 = ({navigation}) => {
         
         <Button
           title="Ir à tela 2"
-          //Button Title
           onPress={() => navigation.navigate('Tela2')}
         />
       </View>
